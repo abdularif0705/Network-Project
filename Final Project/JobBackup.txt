@@ -1,0 +1,6 @@
+Brett IPDetection 10 1.1.1.1 25565
+Brett PortDetection 10 1.1.1.1 25565
+Brett TCPFloodAttack 10 1.1.1.1 25565
+Brett UDPFloodAttack 10 1.1.1.1 25565
+Brett NodeLocation 10 1.1.1.1 00
+Brett NodeLANScan 10 00 00
